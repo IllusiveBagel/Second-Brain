@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Check.md",
+                "file": "Wiki/Memoisation in React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Check"
+              "title": "Memoisation in React"
             }
           }
         ]
@@ -160,7 +160,9 @@
   },
   "active": "11a0569192c9e3da",
   "lastOpenFiles": [
-    "README.md",
-    "Git Check.md"
+    "Git Check.md",
+    "Wiki/Memoisation in React.md",
+    "Wiki",
+    "README.md"
   ]
 }
